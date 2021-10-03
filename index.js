@@ -1,0 +1,1 @@
+bot.loadCommands(`./commands/`)
